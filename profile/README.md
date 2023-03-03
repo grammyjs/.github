@@ -1,3 +1,3 @@
 ### Welcome to grammY’s GitHub organization!
 
-This is the place we together build and collaborate on grammY!
+This is the place where we together build and collaborate on grammY!
