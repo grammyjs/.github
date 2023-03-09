@@ -4,6 +4,6 @@
 
 This is the place where we together build and collaborate on grammY.
 
-[Contribution Guide](https://github.com/grammyjs/grammY/blob/main/CONTRIBUTING.md) | [Board](https://github.com/orgs/grammyjs/projects/3) | [Documentation](https://grammy.dev)
+[Board](https://github.com/orgs/grammyjs/projects/3) | [Contribution](https://github.com/grammyjs/grammY/blob/main/CONTRIBUTING.md) | [Documentation](https://grammy.dev)
 
 </div>
